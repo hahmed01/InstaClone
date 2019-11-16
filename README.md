@@ -28,10 +28,11 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
+*Login and take picture*
+
 <img src='walkthrough.gif' width=250><br>
 
-
-
+*Current user persistence, logout and sign up*
 <img src='walkthrough2.gif' width=250><br>
 
 
