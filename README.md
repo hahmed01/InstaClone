@@ -41,7 +41,11 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Had some challenges with this one, since there were so many components.
+- Had trouble setting up parse because of a url error 
+- It was somewhat difficult to set up the initial login screen. I made a lot my variables public (even though that's not the best practice) because I kept getting class errors
+- Problems with emulator and invalid session tokens...wiping the emulator is a neat trick
+This project took more time than I expected.
 
 ## Open-source libraries used
 
