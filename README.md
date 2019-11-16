@@ -1,7 +1,3 @@
-# InstaClone
-Clone of basic instagram functionality
-
-
 # Project 3 - *InstaClone*
 
 **IntsaClone** is a photo sharing app similar to Instagram but using Parse as its backend.
